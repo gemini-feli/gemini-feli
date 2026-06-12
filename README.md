@@ -40,8 +40,24 @@ AI-driven disaster preparedness platform using Spring Boot, Firebase, and Web De
 ### 💰 Budget & Expense Tracker
 JavaFX-based finance management system with authentication and dashboards.
 
-### 🏫 Innovation Excellence Portal
-Portal showcasing Pune colleges, achievements, and accreditations.
+### 🛡️ SurakshaSetu
+A comprehensive safety and emergency response platform designed to enhance public security through real-time alerts, emergency assistance, and location-based services.
+
+**Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+
+---
+
+### 🌿 Plant Disease Detection
+An AI-powered application that identifies plant diseases from leaf images and helps farmers take preventive actions through early disease detection.
+
+**Tech Stack:** Python, Machine Learning, OpenCV, Flask
+
+---
+
+### 🎨 Marathi Text-to-Image Generation
+A generative AI project that converts Marathi text prompts into images, making AI-powered image generation more accessible for regional language users.
+
+**Tech Stack:** Python, Deep Learning, Generative AI, NLP
 
 ---
 
