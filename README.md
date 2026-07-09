@@ -54,7 +54,7 @@ An AI-powered application that identifies plant diseases from leaf images and he
 
 ---
 
-### 🎨 Marathi Text-to-Image Generation
+## 🎨 Marathi Text-to-Image Generation
 A generative AI project that converts Marathi text prompts into images, making AI-powered image generation more accessible for regional language users.
 
 **Tech Stack:** Python, Deep Learning, Generative AI, NLP
