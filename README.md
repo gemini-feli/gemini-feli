@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Felixeena Thomas</h1>
-<h3 align="center">Information Technology Student | Full Stack Developer | Aspiring Software Engineer</h3>
+<h3 align="center">Information Technology Student | AI/ML Engineer | Full Stack Developer | Aspiring Software Engineer</h3>
 
 ---
 
